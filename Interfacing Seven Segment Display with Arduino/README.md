@@ -1,4 +1,4 @@
-# [Interfacing Seven Segment Display with Arduino](https://circuitdigest.com/tags/arduino)
+# [Interfacing Seven Segment Display with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-seven-segment-display-with-Arduino)
 
 <img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/328623c5f35ca87e58eeea7afe95b8f53b59996c/Interfacing%20Seven%20Segment%20Display%20with%20Arduino/Images/7-Segment-Title-image.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
