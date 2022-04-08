@@ -1,4 +1,4 @@
-# [Interfacing 16x2 LCD with Arduino](https://circuitdigest.com/tags/arduino)
+# [Interfacing 16x2 LCD with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-16x2-lcd-with-arduino)
 
 <img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/d72d720d083c663016516b760d49e7d76e152fe6/Interfacing%2016x2%20LCD%20with%20Arduino/Image/16x2-LCD_Title-image.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
