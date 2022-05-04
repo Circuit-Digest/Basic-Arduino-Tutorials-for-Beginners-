@@ -1,6 +1,6 @@
 /*!
  * @file        Arduino_NTC_Interface.ino
- * @brief       How to Interface NTC Thermistor with Arduino
+ * @brief       Interfacing NTC Thermistor With Arduino
  * @author      Jobit Joseph
  * @copyright   Copyright (c) 2022 Semicon Media Pvt Ltd (https://circuitdigest.com)
  */
