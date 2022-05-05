@@ -13,7 +13,7 @@
 <br>
 <br>
 <br>
-Thermistors are simple, inexpensive, and accurate components that make it easy to get temperature data for your projects. Thermistors or THERMally sensitive resISTORs are variable resistors, whose resistance will be changed with the temperature. This feature enables us to read the temperature or change in temperature by measuring the resistance of the thermistors. Thermistors are used in various everyday use items like Thermostats, SMPS, surge protection circuits and rechargeable battery packs etc.
+Have you ever wondered how the antitheft system in a supermarket works? Or how do automatic toll payment systems like fast tag work? All the answer to your doubts is RFID or Radio Frequency Identification. As the name indicates, RFID uses electromagnetic waves in the radio frequency spectrum for communication and data transfer. RFID tags are used in many industries. You can find them in product tags from stores to security access cards. RFID tags can expedite the checkout and can be used for antitheft measures. They can be also used for identifying livestock, products etc. In this tutorial, we will learn how we can use the RFID technology with the Arduino. We will learn how to interface the RC522 RFID reader with the Arduino.
 <br>
 [Note: As this projects are very simple we are only providing the code, schemaitic, and a few essential images if you want to get the images or code explanations do check out the Circuit Digest website.
 <br>
