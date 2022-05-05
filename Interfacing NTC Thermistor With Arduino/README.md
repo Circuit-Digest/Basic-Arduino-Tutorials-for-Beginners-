@@ -1,4 +1,4 @@
-# [Interfacing NTC Thermistor With Arduino](https://circuitdigest.com)
+# [Interfacing NTC Thermistor With Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-Thermistor-with-arduino)
 
 <img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/658ba2d7158c769d764f26feda37a25ba15adbcb/Interfacing%20NTC%20Thermistor%20With%20Arduino/ntcr_title.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
