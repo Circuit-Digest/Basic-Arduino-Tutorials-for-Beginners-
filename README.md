@@ -4,7 +4,7 @@
 <br>
 
 
-[<h1>Click Hear to Check Out Basic Interfacing Tutorials on CircuitDigest here](https://circuitdigest.com/tags/arduino) </h1>
+[<h1>Click Hear to Check Out Basic Interfacing Tutorials on CircuitDigest](https://circuitdigest.com/tags/arduino) </h1>
 
 
 <br>
@@ -15,7 +15,7 @@ Hello everyone, this repository contains all the resource files for basic Arduin
 
 
 
-[<h2>Other Basic Arduino Tutorial by Circuit Digest</h2>]
+<h2>Other Basic Arduino Tutorial by Circuit Digest</h2>
 
 
 
