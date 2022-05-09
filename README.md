@@ -4,7 +4,7 @@
 <br>
 
 
-[<h1>Click Hear to Check Out Basic Interfacing Tutorials on CircuitDigest](https://circuitdigest.com/tags/arduino) </h1>
+[<h1>Click Here to Check Out Basic Interfacing Tutorials on CircuitDigest](https://circuitdigest.com/tags/arduino) </h1>
 
 
 <br>
