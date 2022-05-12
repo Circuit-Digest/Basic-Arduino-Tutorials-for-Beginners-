@@ -1,4 +1,4 @@
-# [Interfacing MPU6050 With Arduino](https://circuitdigest.com/)
+# [Interfacing MPU6050 With Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-mpu6050-module-with-arduino)
 
 <img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/d6eff1af66385708e9f3212ce84a2dc7082c69af/Interfacing%20MPU6050%20With%20Arduino/mpu6050_sensor_title.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
