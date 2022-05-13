@@ -1,4 +1,4 @@
-# [Interfacing Hall Effect Sensor With Arduino](https://circuitdigest.com/tags/arduino)
+# [Interfacing Hall Effect Sensor With Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-hall-effect-sensor-module-with-arduino)
 
 <img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/304412b58399bb5e53456c01fa331445d7e37523/Interfacing%20Hall%20Effect%20Sensor%20With%20Arduino/Images/hall_effect_Title-image.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
