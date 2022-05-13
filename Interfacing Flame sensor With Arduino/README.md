@@ -1,4 +1,4 @@
-# [Interfacing Flame Sensor with Arduino](https://circuitdigest.com/)
+# [Interfacing Flame Sensor with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-flame-sensor-with-arduino)
 
 <img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/a50e217768028397727b408931436d894bd4a5e4/Interfacing%20Flame%20sensor%20With%20Arduino/Images/flame_sensor_title.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
