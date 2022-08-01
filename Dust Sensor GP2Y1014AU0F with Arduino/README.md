@@ -1,6 +1,6 @@
 # [How Does the GP2Y1014AU0F Dust Sensor Work and How to Interface it with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-dust-sensor-with-arduino)
 
-<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/Dust%20Sensor%20GP2Y1014AU0F%20with%20Arduino/images/dust_sensor_title.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/Dust%20Sensor%20GP2Y1014AU0F%20with%20Arduino/images/dust_sensor_cover.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
