@@ -1,6 +1,6 @@
 # [DS3231 RTC (Real Time Clock) Interfacing with Arduino to build DIY Digital Clock](https://circuitdigest.com/microcontroller-projects/interfacing-ds3231-rtc-with-arduino-and-diy-digital-clock)
 
-<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/MQ3%20Sensor%20with%20Arduino/images/MQ-Gas-sensor_title.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/DS3231%20Precision%20RTC%20Module%20with%20Arduino/images/DS3231_rtc_with_arduino.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
@@ -12,10 +12,10 @@
 
 <br>
 <br>
+
+In today's world, time is everything, and when it comes to specific electronics, timing is critical; just like us, humans, they also need a way to keep track of time. So how do electronics do it? The answer is DS3231, a Real-Time Clock, often known as an RTC, is a timekeeping device built into an Integrated Circuit, or IC. It is used in many time-critical applications and devices, such as servers, GPS, and data loggers. Let's see what makes it TICK.
+
 <br>
-In this digital age, we come across LCDs all around us from simple calculators to smartphones, computers and television sets etc. The LCDs use liquid crystals to produce images or texts. The LCDs are categorized into different categories based on different criteria like type of manufacturing, monochrome or colour, and weather Graphical or character LCD. In this tutorial, we will be talking about the 16X2 character LCD Modules.
-<br>
-The 16x2 LCDs are very popular among the DIY community. Not only that you can also find them in many laboratory and industrial equipment. It can display up to 32 characters at a time. Each character segment is made up of 40 pixels that are arranged in a 5x8 matrix. We can create alphanumeric characters and customs characters by activating the corresponding pixels. Here is a vector representation of a 16x2 LCD, in which you can see those individual pixels.
 <br>
 [Note: As this projects are very simple we are only providing the code, schemaitic, and a few essential images if you want to get the images or code explanations do check out the Circuit Digest website.
 <br>
