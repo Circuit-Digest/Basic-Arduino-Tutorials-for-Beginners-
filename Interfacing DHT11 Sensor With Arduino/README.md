@@ -1,6 +1,6 @@
 # [Interfacing DHT11 Humidity & Temperature Sensor with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-dht11-sensor-with-arduino)
 
-<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/ec149c466027bbd156a00ae7c4e91f3619728856/Interfacing%20DHT11%20Sensor%20With%20Arduino/2022-05-12.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/Interfacing%20DHT11%20Sensor%20With%20Arduino/images/dht11_title.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
