@@ -1,6 +1,6 @@
 # [Interfacing DS1307 RTC Module with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-ds1307-rtc-module-with-arduino)
 
-<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/d72d720d083c663016516b760d49e7d76e152fe6/Interfacing%2016x2%20LCD%20with%20Arduino/Image/16x2-LCD_Title-image.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/DS1307%20RTC%20with%20Arduino/images/Arduino-DS1307-RTC-Module.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
@@ -13,7 +13,7 @@
 <br>
 <br>
 
-
+Time is vital in today's society, and when it comes to certain electronics, timing is crucial; just like us, they require a means to keep track of time, and precise time. So, how do electronics accomplish this? A Real-Time Clock, or RTC, is a timekeeping device embedded inside an Integrated Circuit, or IC. The answer is DS1307. Many time-critical applications and devices rely on it, including servers, GPS, and data loggers.
 
 <br>
 <br>
