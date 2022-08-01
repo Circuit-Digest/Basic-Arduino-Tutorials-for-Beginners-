@@ -1,6 +1,6 @@
 # [Interfacing DS1307 RTC Module with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-ds1307-rtc-module-with-arduino)
 
-<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/DS1307%20RTC%20with%20Arduino/images/Arduino-DS1307-RTC-Module.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/DS1307%20RTC%20with%20Arduino/images/arduino_ds1307_cover.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
