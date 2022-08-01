@@ -1,6 +1,6 @@
-# [Interfacing 16x2 LCD with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-16x2-lcd-with-arduino)
+# [How Does the BMP280 Digital Pressure Sensor Work and how to Interface it with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-bmp280-sensor-with-arduino)
 
-<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/d72d720d083c663016516b760d49e7d76e152fe6/Interfacing%2016x2%20LCD%20with%20Arduino/Image/16x2-LCD_Title-image.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/BMP280%20Pressure%20Sensor%20with%20Arduino/images/BMP280_sensor_title.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
@@ -12,10 +12,17 @@
 
 <br>
 <br>
+In many of our previous articles we have used many different types of temperature and humidity sensors
+like DHT22, DHT11, DS18b20 and LM35 to measure environmental parameters. In every one of those articles there's 
+one thing common, none of those sensors can measure barometric pressure. 
+So in today's article we wanted to interface the BMP280 with an Arduino and measure barometric pressure. 
+Why BMP280 you ask? Because this sensor costs low and it only provides both temperature and barometer readings,
+ and as pressure changes with altitude we can also use it as an altimeter with ±1 meter accuracy. But if you want to get all 
+ the weather data in one package there exists another sensor named BME280 that provides Temperature, Humidity, Barometric Pressure, 
+ and Altitude but as you can probably imagine it comes with a high cost.
+
+
 <br>
-In this digital age, we come across LCDs all around us from simple calculators to smartphones, computers and television sets etc. The LCDs use liquid crystals to produce images or texts. The LCDs are categorized into different categories based on different criteria like type of manufacturing, monochrome or colour, and weather Graphical or character LCD. In this tutorial, we will be talking about the 16X2 character LCD Modules.
-<br>
-The 16x2 LCDs are very popular among the DIY community. Not only that you can also find them in many laboratory and industrial equipment. It can display up to 32 characters at a time. Each character segment is made up of 40 pixels that are arranged in a 5x8 matrix. We can create alphanumeric characters and customs characters by activating the corresponding pixels. Here is a vector representation of a 16x2 LCD, in which you can see those individual pixels.
 <br>
 [Note: As this projects are very simple we are only providing the code, schemaitic, and a few essential images if you want to get the images or code explanations do check out the Circuit Digest website.
 <br>
