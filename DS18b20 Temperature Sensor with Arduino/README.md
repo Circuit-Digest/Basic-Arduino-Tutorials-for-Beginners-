@@ -1,6 +1,6 @@
-# [Interfacing 16x2 LCD with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-16x2-lcd-with-arduino)
+# [Interfacing 16x2 LCD with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-ds18b20-sensor-with-arduino)
 
-<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/d72d720d083c663016516b760d49e7d76e152fe6/Interfacing%2016x2%20LCD%20with%20Arduino/Image/16x2-LCD_Title-image.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/DS18b20%20Temperature%20Sensor%20with%20Arduino/images/ds18b20%20cover.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
@@ -12,10 +12,8 @@
 
 <br>
 <br>
+In one of our previous tutorials, we have shown you how you can interface LM35 Temperature Sensor with Arduino because it's cheap, easy to use, and requires minuscule power for stable operation. But one of the major disadvantages of the LM35 sensor is that it is analog in nature, so it's sensitive to external noise. There are a variety of sensors that may be used to solve this problem but in today's article, we thought to cover the DS18b20 temperature sensor. Not only is this sensor inexpensive and simple to use, but it also has a one-of-a-kind 1-wire communication protocol that is simple to build and supports a wide range of devices that can connect with the CPU.
 <br>
-In this digital age, we come across LCDs all around us from simple calculators to smartphones, computers and television sets etc. The LCDs use liquid crystals to produce images or texts. The LCDs are categorized into different categories based on different criteria like type of manufacturing, monochrome or colour, and weather Graphical or character LCD. In this tutorial, we will be talking about the 16X2 character LCD Modules.
-<br>
-The 16x2 LCDs are very popular among the DIY community. Not only that you can also find them in many laboratory and industrial equipment. It can display up to 32 characters at a time. Each character segment is made up of 40 pixels that are arranged in a 5x8 matrix. We can create alphanumeric characters and customs characters by activating the corresponding pixels. Here is a vector representation of a 16x2 LCD, in which you can see those individual pixels.
 <br>
 [Note: As this projects are very simple we are only providing the code, schemaitic, and a few essential images if you want to get the images or code explanations do check out the Circuit Digest website.
 <br>
