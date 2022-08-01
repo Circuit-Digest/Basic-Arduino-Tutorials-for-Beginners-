@@ -1,6 +1,6 @@
-# [Interfacing DHT11 Humidity & Temperature Sensor with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-dht11-sensor-with-arduino)
+# [How Does the GP2Y1014AU0F Dust Sensor Work and How to Interface it with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-dust-sensor-with-arduino)
 
-<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/ec149c466027bbd156a00ae7c4e91f3619728856/Interfacing%20DHT11%20Sensor%20With%20Arduino/2022-05-12.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/Dust%20Sensor%20GP2Y1014AU0F%20with%20Arduino/images/dust_sensor_title.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
@@ -12,9 +12,8 @@
 
 <br>
 <br>
+When we are talking about air pollution, dust and smoke are one of the many reasons for air pollution. Not only that, in recent years due to climate change, wildfires have become more frequent. A recent report from National Interagency Fire Center (NIFC) reported a total of 58,733 wildfires across the US that had burned more than 7.13 million acres in 2021 alone. That is why in this article we are going to Interface the GP2Y1014AU0F Dust Sensor with Arduino to add basic particle sensing to our project. But let's be real, this sensor is not as good as the nova SDS110 Sensor that can measure PM2.5 and PM10 in the air. However, for the price of only 5$ or approx 400Rs, it can't be beaten.
 <br>
-DHT11 Temperature & Humidity Sensor features a temperature & humidity sensor
-complex with a calibrated digital signal output. The exclusive digital-signal-acquisition technique and temperature & humidity sensing technology ensure high reliability and excellent long-term stability. This sensor includes an NTC for temperature measurement and a resistive-type humidity measurement component for humidity measurement. These are connected to a high-performance 8-bit microcontroller, offering excellent quality, fast response, anti-interference ability and cost-effectiveness.
 <br>
 [Note: As this projects are very simple we are only providing the code, schemaitic, and a few essential images if you want to get the images or code explanations do check out the Circuit Digest website.]
 <br>
