@@ -1,6 +1,6 @@
-# [Interfacing Basic Sensor Module With Arduino](https://circuitdigest.com/tags/arduino)
+# [How Does a LM35 Temperature Sensor Work and how to Interface it with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-lm35-sensor-with-arduino)
 
-<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/Interfacing%20IR%20Sensor%20Module%20with%20Arduino/images/IR-Sensor-Cover.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/Interfacing%20LM35%20Temperature%20Sensor%20with%20Arduino/images/cover.png" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
@@ -12,18 +12,8 @@
 
 <br>
 <br>
-Hello everyone, this repository contains the resource files for basic Arduino Tutorials. If you are interested to know more about Arduino, then You can visit the following links.
-<br>
-[Note: As this projects are very simple we are only providing the code, schemaitic, and a few essential images if you want to get the images or code explanations do check out the links given below.
+If you are looking for an inexpensive, accurate, easy-to-use temperature sensor, then LM35 is an excellent choice. It has an accuracy of ±¼°C at room temperature and ±¾°C over a full −55°C to 150°C temperature range. It does not require any external trimming, although the main drawback of this sensor is that it outputs data in analog format, making it very prone to external noise and interference. So, in this tutorial, we will learn how to wire up a LM35 Temperature Sensor with Arduino and also we will output the temperature data in the serial monitor window.
 <br>
 <br>
-
-
-
-**Other Basic Arduino Tutorial by Circuit Digest**
-
+Note: As this projects are very simple we are only providing the code, schemaitic, and a few essential images if you want to get the images or code explanations do check out the links given below.
 <br>
-<br>
-
-✅Tutorial 1:[Interfacing IR Sensor Module with Arduino](https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/tree/main/Interfacing%20IR%20Sensor%20Module%20with%20Arduino)
-   <br>
