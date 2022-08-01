@@ -1,4 +1,4 @@
-# [ How Does a Soil Moisture Sensor Work and how to use it with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-soil-moisture-sensor-with-arduino-uno)
+# [  Interfacing SR04T/SR04M Waterproof UltraSonic Sensor with Arduino Uno](https://circuitdigest.com/microcontroller-projects/interfacing-ultrasonic-sensor-module-with-arduino#)
 
 <img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/Interfacing%20Soil%20Moisture%20Sensor%20with%20Arduino/images/interfacing_soil_moisture_sensor_modue_with_arduino.png" width="" alt="alt_text" title="image_tooltip">
 <br>
