@@ -1,4 +1,4 @@
-# [Interfacing 16x2 LCD with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-16x2-lcd-with-arduino)
+# [DS3231 RTC (Real Time Clock) Interfacing with Arduino to build DIY Digital Clock](https://circuitdigest.com/microcontroller-projects/interfacing-ds3231-rtc-with-arduino-and-diy-digital-clock)
 
 <img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/MQ3%20Sensor%20with%20Arduino/images/MQ-Gas-sensor_title.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
