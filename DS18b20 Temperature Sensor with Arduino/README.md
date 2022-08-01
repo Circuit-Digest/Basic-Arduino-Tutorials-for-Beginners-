@@ -1,4 +1,4 @@
-# [Interfacing 16x2 LCD with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-ds18b20-sensor-with-arduino)
+# [How Does a DS18b20 Temperature Sensor Work and how to Interface it with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-ds18b20-sensor-with-arduino)
 
 <img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/DS18b20%20Temperature%20Sensor%20with%20Arduino/images/ds18b20%20cover.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
