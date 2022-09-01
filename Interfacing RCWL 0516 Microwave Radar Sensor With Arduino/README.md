@@ -1,4 +1,4 @@
-# [Interfacing MPU6050 With Arduino](https://circuitdigest.com/microcontroller-projects/)
+# [Interfacing MPU6050 With Arduino](https://circuitdigest.com/microcontroller-projects/arduino-rcwl-0516-radar-sensor-interfacing)
 
 <img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/f1651028fe9730fc24b8def201753e7e020ef723/Interfacing%20RCWL%200516%20Microwave%20Radar%20Sensor%20With%20Arduino/title%20image.png" width="" alt="alt_text" title="image_tooltip">
 
