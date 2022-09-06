@@ -1,4 +1,4 @@
-# [Interfacing Dual Axis Joystick Module with Arduino](https://circuitdigest.com/microcontroller-projects/)
+# [Interfacing Dual Axis Joystick Module with Arduino](https://circuitdigest.com/microcontroller-projects/microcontroller-interfacing-dual-axis-joystick-module-with-arduino)
 
 <img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/bd738daad077095d93f95389160df45356861d5c/Interfacing%20Dual%20Axis%20Joystick%20Module%20with%20Arduino/title%20image.png" width="" alt="alt_text" title="image_tooltip">
 
