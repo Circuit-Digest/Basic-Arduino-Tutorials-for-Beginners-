@@ -1,4 +1,4 @@
-# [Interfacing Addressable RGB LED with Arduino](https://circuitdigest.com/microcontroller-projects/)
+# [Interfacing Addressable RGB LED with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-neopixel-led-strip-with-arduino)
 
 <img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/e5fe4f27a5d4b228eb947de287cbbebc7b6607cd/Interfacing%20Addressable%20RGB%20LED%20with%20Arduino/title%20image.png" width="" alt="alt_text" title="image_tooltip">
 
