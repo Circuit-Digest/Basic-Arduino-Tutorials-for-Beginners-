@@ -4,7 +4,7 @@
 <br>
 
 <br>
-<a href="https://circuitdigest.com/tags/arduino"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Arduino Basic Tutorials Circuit Digest&color=%230076D6&style=social&logo=google-chrome&logoColor=%230076D6" alt="circuitdigest"/></a>
+<a href="[https://circuitdigest.com/tags/arduino](https://circuitdigest.com/microcontroller-projects/interfacing-soil-moisture-sensor-with-arduino-uno)"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Arduino Basic Tutorials Circuit Digest&color=%230076D6&style=social&logo=google-chrome&logoColor=%230076D6" alt="circuitdigest"/></a>
 <br>
 
 [<h1>Click here](https://circuitdigest.com/tags/arduino) for the complete tutorials on Arduino basics.</h1>
