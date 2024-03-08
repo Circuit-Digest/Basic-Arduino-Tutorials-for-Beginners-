@@ -1,6 +1,6 @@
-# [Interfacing DS1307 RTC Module with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-ds1307-rtc-module-with-arduino)
+# [Interfacing Ultrasonic Sensor with Arduino](https://circuitdigest.com/microcontroller-projects/interface-arduino-with-ultrasonic-sensor)
 
-<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/DS1307%20RTC%20with%20Arduino/images/arduino_ds1307_cover.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/65319ac8520764a50b169b451ac361bc98a9d11b/How%20to%20Interface%20Arduino%20with%20an%20Ultrasonic%20Sensor/Arduino%20Ultrasonics%20Sensor.png" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
@@ -13,7 +13,7 @@
 <br>
 <br>
 
-Time is vital in today's society, and when it comes to certain electronics, timing is crucial; just like us, they require a means to keep track of time, and precise time. So, how do electronics accomplish this? A Real-Time Clock, or RTC, is a timekeeping device embedded inside an Integrated Circuit, or IC. The answer is DS1307. Many time-critical applications and devices rely on it, including servers, GPS, and data loggers.
+n this tutorial, we'll guide you through interfacing an Arduino with an ultrasonic sensor to measure distance and show it on the Serial monitor. We'll start by explaining how to interface the ultrasonic sensor, and then we'll add the I2C LCD display to the project at the end.
 
 <br>
 <br>
