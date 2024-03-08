@@ -1,6 +1,6 @@
 # [Interfacing Ultrasonic Sensor with Arduino](https://circuitdigest.com/microcontroller-projects/interface-arduino-with-ultrasonic-sensor)
 
-<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/65319ac8520764a50b169b451ac361bc98a9d11b/How%20to%20Interface%20Arduino%20with%20an%20Ultrasonic%20Sensor/Arduino%20Ultrasonics%20Sensor.png" width="" alt="alt_text" title="image_tooltip">
+<img src="["](https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/6c462b2d328285abc71cad1a9101c17771aca229/How%20to%20Interface%20Arduino%20with%20an%20Ultrasonic%20Sensor/Images/Arduino%20Ultrasonics%20Sensor.png) width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
