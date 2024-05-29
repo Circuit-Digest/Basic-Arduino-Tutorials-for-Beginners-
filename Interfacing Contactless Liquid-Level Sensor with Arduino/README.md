@@ -1,6 +1,6 @@
 # [Interfacing 16x2 LCD with Arduino](https://circuitdigest.com/microcontroller-projects/)
 
-<img src="[https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/d72d720d083c663016516b760d49e7d76e152fe6/Interfacing%2016x2%20LCD%20with%20Arduino/Image/16x2-LCD_Title-image.jpg](https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/052c569b4ad19f3851726636f5f83ea401472cb3/Interfacing%20Contactless%20Liquid-Level%20Sensor%20with%20Arduino/Artboard%201.jpg)" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/052c569b4ad19f3851726636f5f83ea401472cb3/Interfacing%20Contactless%20Liquid-Level%20Sensor%20with%20Arduino/Artboard%201.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
