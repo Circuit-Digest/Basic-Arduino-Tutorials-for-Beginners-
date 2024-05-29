@@ -10,7 +10,7 @@
 [<h1>Click here](https://circuitdigest.com/tags/arduino) for the complete tutorials on Arduino basics.</h1>
 
 
-<br>
+<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/b7f3acb6eda1a70a258b6af419ac2a6a6288c475/Interfacing%20Contactless%20Liquid-Level%20Sensor%20with%20Arduino/GIF-(Contactless-liquid-sensor).gif" width="" height="" /><br>
 <br>
 <br>
 You might have seen there are many types of liquid-level sensors available on the market. They are mostly used in automatic pump controls and industrial applications. The most common type of sensors that were used were the float switch type sensor or the conductive sensors. Even though they were used commercially each type comes with its own problems. For example, the float-type sensor can get stuck and give a false reading, and the major issues faced by the conductive-type sensor are corrosion corrosion and electrical interference. This is where the contactless sensors come in handy. Since they don’t have any moving parts, we don’t need to worry about them getting stuck and since they are contactless we don’t need to worry about corrotion. There are many types of contactless sensors available in the market, including capacitive sensors, ultrasonic sensors, radar sensors and optical sensors. In this article, we are going to look at a capacitive contactless liquid-level sensor XKC-Y26-V. We will go through its features and we will also see how to interface it with an Arduino.
