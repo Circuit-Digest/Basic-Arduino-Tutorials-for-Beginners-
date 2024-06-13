@@ -1,6 +1,6 @@
 # [Interfacing MAX4466 microphone amplifier module with Arduino](https://circuitdigest.com/microcontroller-projects/)
 
-<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/052c569b4ad19f3851726636f5f83ea401472cb3/Interfacing%20Contactless%20Liquid-Level%20Sensor%20with%20Arduino/Artboard%201.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/b0018b7b03e0e8321a1e6867ec6d59f666ec2738/Interfacing%20MAX4466%20microphone%20amplifier%20module%20with%20Arduino/Images/GIF.gif" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
