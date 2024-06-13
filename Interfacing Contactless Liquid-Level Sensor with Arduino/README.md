@@ -1,4 +1,4 @@
-# [Interfacing 16x2 LCD with Arduino](https://circuitdigest.com/microcontroller-projects/)
+# [Interfacing Contactless Liquid Level Sensor with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-contactless-liquid-level-sensor-with-arduino)
 
 <img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/052c569b4ad19f3851726636f5f83ea401472cb3/Interfacing%20Contactless%20Liquid-Level%20Sensor%20with%20Arduino/Artboard%201.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
