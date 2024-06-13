@@ -1,4 +1,4 @@
-# How Does a Soil Moisture Sensor Work and how to use it with Arduino
+# [How Does a Soil Moisture Sensor Work and how to use it with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-soil-moisture-sensor-with-arduino-uno)
 
 ![Soil Moisture Sensor with Arduino](https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/Interfacing%20Soil%20Moisture%20Sensor%20with%20Arduino/images/interfacing_soil_moisture_sensor_modue_with_arduino.png)
 
