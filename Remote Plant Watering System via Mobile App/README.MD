@@ -13,15 +13,11 @@ Remote Plant Watering System via Mobile App
 
 <br>
 <br>
-In many of our previous articles we have used many different types of temperature and humidity sensors
-like DHT22, DHT11, DS18b20 and LM35 to measure environmental parameters. In every one of those articles there's 
-one thing common, none of those sensors can measure barometric pressure. 
-So in today's article we wanted to interface the BMP280 with an Arduino and measure barometric pressure. 
-Why BMP280 you ask? Because this sensor costs low and it only provides both temperature and barometer readings,
- and as pressure changes with altitude we can also use it as an altimeter with ±1 meter accuracy. But if you want to get all 
- the weather data in one package there exists another sensor named BME280 that provides Temperature, Humidity, Barometric Pressure, 
- and Altitude but as you can probably imagine it comes with a high cost.
+In our busy day to day life, sometimes we may forget to water the plants in our garden.After leaving home only we came to know about that,Oh no! We forgot to water our plants.Most of the time,I made this mistake and later I blamed myself and it makes me think about, how it feels if we water our plants from anywhere in the world? After brainstorming and surfing the internet,I found it almost easy to water our plants remotely in this modern IoT era. Due to the revolution of IoT, it gives life to our imaginary thoughts and makes it live in the real world.
 
+So, in order to convert my thoughts into action.I created an checklist to determine what are the things, do i need for this project.Most obviously i need electric pump to water the plants, in order to control the pump, I need microcontroller.For Microcontroller i decided to pick Arduino UNO R4 WIFI, because it has most powerful RA4M1 microprocessor from Renesas with the ESP32-S3  from Espressif. With its wifi capability, we can provide internet access to microcontroller, which is mandatory in order to access microcontroller remotely.
+
+Later this microcontroller have an inbuilt 12*8 led matrix, so i can able to display the plants expressions on it.Finally i need an analog soil moisture sensor, so that i can monitor the soil moisture and based on that i can able to switch on/off the water pump remotely through Blynk app.
 
 <br>
 <br>
