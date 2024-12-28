@@ -1,7 +1,7 @@
 Remote Plant Watering System via Mobile App
 # [Remote Plant Watering System via Mobile App with Arduino Uno R4 WiFi](https://circuitdigest.com/microcontroller-projects/)
 
-<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/BMP280%20Pressure%20Sensor%20with%20Arduino/images/BMP280_sensor_title.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/4214c8d8e6c23b595896fba25d0e3b44ea8f581f/Remote%20Plant%20Watering%20System%20via%20Mobile%20App/Title%20Image.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
