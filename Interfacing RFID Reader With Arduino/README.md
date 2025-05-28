@@ -53,18 +53,11 @@ void loop() {
 📁 Project Files
 ----------------
 
-### Code Examples
-
--   [`DumpInfo.ino`](https://claude.ai/chat/DumpInfo.ino) - Read and display all RFID card information
--   [`ReadAndWrite.ino`](https://claude.ai/chat/ReadAndWrite.ino) - Write custom data to RFID tags
--   [`LEDControl.ino`](https://claude.ai/chat/LEDControl.ino) - Control LED with RFID cards
--   [`AccessControl.ino`](https://claude.ai/chat/AccessControl.ino) - Simple access control system
-
 ### Documentation
 
--   [`circuit_diagrams/`](https://claude.ai/chat/circuit_diagrams/) - Wiring diagrams and schematics
--   [`docs/troubleshooting.md`](https://claude.ai/chat/docs/troubleshooting.md) - Common issues and solutions
--   [`docs/advanced_projects.md`](https://claude.ai/chat/docs/advanced_projects.md) - Advanced project ideas
+-   [`circuit_diagrams/`](https://circuitdigest.com/microcontroller-projects/interfacing-rfid-reader-module-with-arduino#arduino-rfid-wiring-rc522-circuit-diagram-and-connections) - Wiring diagrams and schematics
+-   [`docs/troubleshooting.md`](https://circuitdigest.com/microcontroller-projects/interfacing-rfid-reader-module-with-arduino#rfid-arduino-troubleshooting-guide) - Common issues and solutions
+-   [`docs/advanced_projects.md`](https://circuitdigest.com/microcontroller-projects/interfacing-rfid-reader-module-with-arduino#advanced-arduino-rfid-projects-and-applications) - Advanced project ideas
 
 🛠 Hardware Requirements
 ------------------------
@@ -281,10 +274,7 @@ int cardUID = 0x12345678;  // Store the card's unique identifier
 -   **Newsletter**: Subscribe for new tutorials
 -   **Social Media**: Follow us for updates
 
-📄 License
-----------
 
-This project is licensed under the **MIT License** - see the [LICENSE](https://claude.ai/chat/LICENSE) file for details.
 
 ### What this means:
 
