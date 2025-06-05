@@ -278,7 +278,6 @@ A: Each project folder contains library requirements in comments. Most are avail
 
 -   🌐 [**CircuitDigest.com**](https://circuitdigest.com/) - Complete tutorials with images & videos
 -   📖 [**Arduino Project Hub**](https://circuitdigest.com/arduino-projects) - 500+ Projects
--   🎓 [**Arduino Basics Course**](https://circuitdigest.com/arduino-tutorials) - Step-by-step learning
 -   💬 [**Community Forum**](https://circuitdigest.com/forums) - Get help from experts
 
 ### 🛠️ **Tools & Software**
@@ -287,11 +286,6 @@ A: Each project folder contains library requirements in comments. Most are avail
 -   [Fritzing Circuit Design](https://fritzing.org/)
 -   [Tinkercad Circuit Simulator](https://www.tinkercad.com/)
 
-### 🛒 **Shopping Guides**
-
--   [Best Arduino Starter Kits](https://circuitdigest.com/article/best-arduino-starter-kits)
--   [Electronic Components Guide](https://circuitdigest.com/article/electronic-components-guide)
--   [Arduino Sensors Shopping List](https://circuitdigest.com/article/arduino-sensors-list)
 
 ### 📱 **Follow Us**
 
@@ -313,12 +307,7 @@ Ready to build amazing projects? **[Visit CircuitDigest.com](https://circuitdige
 -   ✅ **Troubleshooting Help**
 -   ✅ **Community Support**
 
-### 🎯 **Quick Start Links**
 
--   👶 [**Complete Beginner?**](https://circuitdigest.com/arduino-tutorials) - Start here
--   🔧 [**Have Arduino Experience?**](https://circuitdigest.com/arduino-projects) - Browse projects
--   🤖 [**Want to Build Robots?**](https://circuitdigest.com/tags/arduino-robot) - Robot tutorials
--   🏠 [**Home Automation?**](https://circuitdigest.com/tags/home-automation) - Smart home projects
 
 * * * * *
 
