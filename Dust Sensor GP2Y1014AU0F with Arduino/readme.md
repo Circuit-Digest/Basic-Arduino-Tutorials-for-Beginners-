@@ -7,7 +7,7 @@
 ## 📝 Project Overview
 
 This project demonstrates how to interface the [**GP2Y1014AU0F Dust Sensor**](https://circuitdigest.com/microcontroller-projects/interfacing-sharp-gp2y1014au0f-sensor-with-arduino-to-build-air-quality-analyzer) with Arduino to create an affordable air quality monitoring system. The sensor provides basic particle detection capabilities for dust and smoke using optical sensing technology, making it perfect for educational projects and basic air quality monitoring applications.
-https://circuitdigest.com/sites/default/files/projectimage_mic/Arduino-Dust-Sensor-Interfacing.jpg)
+(https://circuitdigest.com/sites/default/files/projectimage_mic/Arduino-Dust-Sensor-Interfacing.jpg)
 
 ## 🖼️ Main Project Image
 ![Interfacing Dust Sensor with Arduino](https://circuitdigest.com/sites/default/files/projectimage_mic/Arduino-Dust-Sensor-Interfacing.jpg)  
