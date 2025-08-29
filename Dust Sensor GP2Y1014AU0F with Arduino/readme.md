@@ -6,7 +6,11 @@
 
 ## 📝 Project Overview
 
-This project demonstrates how to interface the **GP2Y1014AU0F Dust Sensor** with Arduino to create an affordable air quality monitoring system. The sensor provides basic particle detection capabilities for dust and smoke using optical sensing technology, making it perfect for educational projects and basic air quality monitoring applications.
+This project demonstrates how to interface the [**GP2Y1014AU0F Dust Sensor**](https://circuitdigest.com/microcontroller-projects/interfacing-sharp-gp2y1014au0f-sensor-with-arduino-to-build-air-quality-analyzer) with Arduino to create an affordable air quality monitoring system. The sensor provides basic particle detection capabilities for dust and smoke using optical sensing technology, making it perfect for educational projects and basic air quality monitoring applications.
+https://circuitdigest.com/sites/default/files/projectimage_mic/Arduino-Dust-Sensor-Interfacing.jpg)
+
+## 🖼️ Main Project Image
+![Interfacing Dust Sensor with Arduino](https://circuitdigest.com/sites/default/files/projectimage_mic/Arduino-Dust-Sensor-Interfacing.jpg)  
 
 ## 🔗 Tutorial Reference
 
@@ -192,8 +196,7 @@ Dust Density (μg/m³) = 170 × Voltage - 0.1
 ## 📈 Related Projects
 
 1. **[IoT Air Quality Index Monitoring](https://circuitdigest.com/microcontroller-proejcts/iot-based-air-quality-index-monitoring-system-measure-pm25-pm10-co-using-esp32)** - Advanced system with PM2.5/PM10 sensors
-2. **[Arduino Air Quality Analyzer](https://circuitdigest.com/microcontroller-projects/interfacing-sharp-gp2y1014au0f-sensor-with-arduino-to-build-air-quality-analyzer)** - Complete air quality monitoring system
-3. **[SDS011 PM Monitor](https://circuitdigest.com/microcontroller-projects/air-quality-analyzer-using-arduino-and-nova-air-quality-sensor-sds011)** - Professional-grade particle measurement
+2. **[SDS011 PM Monitor](https://circuitdigest.com/microcontroller-projects/air-quality-analyzer-using-arduino-and-nova-air-quality-sensor-sds011)** - Professional-grade particle measurement
 
 ## 📚 Technical Resources
 
