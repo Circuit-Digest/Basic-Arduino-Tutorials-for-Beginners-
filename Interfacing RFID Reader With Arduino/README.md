@@ -8,7 +8,11 @@ Arduino RFID Tutorial: Complete RC522 Guide with Code & Projects
 📖 Full Tutorial
 ----------------
 
-**[👉 Read the Complete Arduino RFID Tutorial](https://circuitdigest.com/microcontroller-projects/arduino-rfid-rc522-tutorial)**
+**[Complete Arduino RFID Tutorial](https://circuitdigest.com/microcontroller-projects/interfacing-rfid-reader-module-with-arduino)**
+
+Project Type: **[Arduino Project](https://circuitdigest.com/arduino-projects)**
+
+![Main Image](https://circuitdigest.com/sites/default/files/projectimage_mic/Arduino-RFID-Module-Interfacing.jpg)
 
 *This repository contains all the code examples and resources from our comprehensive Arduino RFID tutorial. The full guide includes detailed explanations, troubleshooting tips, and step-by-step instructions.*
 
@@ -78,6 +82,8 @@ void loop() {
 -   LCD Display (for status display)
 
 📋 Arduino RFID Wiring
+
+![Circuit Diagram](https://circuitdigest.com/sites/default/files/inlineimages/u4/Arduino-RFID-Reader-Module-Circuit.jpg)
 ----------------------
 
 | RC522 Pin | Arduino Uno Pin | Arduino Nano Pin | ESP32 Pin | ESP8266 Pin |
