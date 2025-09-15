@@ -20,7 +20,7 @@ This[ **Arduino Soil Moisture Sensor**](https://circuitdigest.com/microcontrolle
 |-----------|----------|-------------|
 | Arduino UNO R3 | 1 | Main microcontroller board |
 | Soil Moisture Sensor Module | 1 | YL-69 or similar resistive sensor |
-| LED | 1 | Visual indicator (any color) |
+| [LED](https://circuitdigest.com/microcontroller-projects/interfacing-ws8211-rgb-led-strip-with-arduino) | 1 | Visual indicator (any color) |
 | Resistor | 1 | 220Ω for LED current limiting |
 | Jumper Wires | 6 | Male-to-male connecting wires |
 | Breadboard | 1 | For circuit connections |
@@ -165,7 +165,7 @@ int calibrateMoisture(int rawValue) {
 |---------|---------------|----------|
 | No sensor readings | Loose connections | Check all wire connections |
 | Erratic values | Power supply issues | Ensure stable 5V supply |
-| [LED](https://circuitdigest.com/microcontroller-projects/interfacing-ws8211-rgb-led-strip-with-arduino) not working | Wrong pin or burned LED | Verify pin 6 connection and LED polarity |
+| LED not working | Wrong pin or burned LED | Verify pin 6 connection and LED polarity |
 | Constant high/low readings | Sensor calibration needed | Recalibrate dry/wet values |
 | Sensor degradation | Electrolysis corrosion | Consider capacitive sensor upgrade |
 
